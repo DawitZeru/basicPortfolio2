@@ -1,2 +1,1 @@
-# basicPortfolio2
-basicPortfolio2
+# basic-portfolio

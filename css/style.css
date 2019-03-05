@@ -1,0 +1,49 @@
+html,body {
+    background-color: lightseagreen; 
+    margin: 2px 2px 2px 2px; 
+    border: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px;   
+    height: 2px 2px 2px 2px;    
+    width: 2px 2px 2px 2px;
+}
+
+.jumbotron{
+    background-color: black;
+    color: rgb(31, 114, 209); 
+    padding: 30px 30px;
+    border-style: solid;
+    border-color: green;
+    text-combine-upright: initial
+    
+}
+header {
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    padding: 10px;  
+    
+    
+}
+
+nav {
+    background-color:darkgrey;
+    border-style: solid;
+    float: right; 
+   
+}
+
+
+#box {
+    border-color: brown;
+  
+    
+}
+footer {
+
+    background-color: black;
+    color: rgb(31, 114, 209); 
+    padding: 30px 30px;
+    border-style: solid;
+    border-color: green;
+
+}
